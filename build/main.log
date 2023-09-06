@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.1)  19 AUG 2023 19:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.1)  6 SEP 2023 11:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Escritorio/Plantilla Latex/main.tex"
-(d:/Escritorio/Plantilla Latex/main.tex
+**"d:/ManuDocs/Plantilla Latex/main.tex"
+(d:/ManuDocs/Plantilla Latex/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-05-15> (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -933,7 +933,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (d:\Escritorio\Plantilla Latex\build\main.aux
+ (d:\ManuDocs\Plantilla Latex\build\main.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
@@ -993,7 +993,7 @@ LaTeX Font Info:    ... okay on input line 146.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring ON on input line 146.
-(d:\Escritorio\Plantilla Latex\build\main.out) (d:\Escritorio\Plantilla Latex\build\main.out)
+(d:\ManuDocs\Plantilla Latex\build\main.out) (d:\ManuDocs\Plantilla Latex\build\main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
@@ -1028,7 +1028,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (d:\Escritorio\Plantilla Latex\build\main.bbl)
+ (d:\ManuDocs\Plantilla Latex\build\main.bbl)
 Package biblatex Info: Reference section=0 on input line 146.
 Package biblatex Info: Reference segment=0 on input line 146.
 LaTeX Info: Redefining \sptext on input line 146.
@@ -1062,7 +1062,7 @@ Package pdftex.def Info: Images/Unco/Unco logo.png  used on input line 18.
 (pdftex.def)             Requested size: 112.92159pt x 114.80362pt.
  [1
 
-{C:/Users/manul/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images/Unco/faiLogo.png> <./Images/Unco/Unco logo.png>]) (d:\Escritorio\Plantilla Latex\build\main.toc
+{C:/Users/manul/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images/Unco/faiLogo.png> <./Images/Unco/Unco logo.png>]) (d:\ManuDocs\Plantilla Latex\build\main.toc
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1070,7 +1070,7 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
- (d:\Escritorio\Plantilla Latex\build\main.lof
+ (d:\ManuDocs\Plantilla Latex\build\main.lof
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1091,7 +1091,7 @@ LaTeX Warning: Empty bibliography on input line 162.
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 126.
 See the caption package documentation for explanation.
 
-(d:\Escritorio\Plantilla Latex\build\main.aux
+(d:\ManuDocs\Plantilla Latex\build\main.aux
 LaTeX Info: Redefining \sptext on input line 23.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
@@ -1104,14 +1104,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  38488 strings out of 476410
- 727318 string characters out of 5789114
+ 727272 string characters out of 5789114
  1855845 words of memory out of 5000000
  58307 multiletter control sequences out of 15000+600000
  522213 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,7n,117p,709b,1794s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,7n,117p,707b,1794s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on "d:\Escritorio\Plantilla Latex\build\main.pdf" (2 pages, 109301 bytes).
+Output written on "d:\ManuDocs\Plantilla Latex\build\main.pdf" (2 pages, 109301 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)

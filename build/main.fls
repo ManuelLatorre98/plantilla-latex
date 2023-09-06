@@ -1,7 +1,7 @@
-PWD d:\Escritorio\Plantilla Latex
+PWD d:\ManuDocs\Plantilla Latex
 INPUT C:\Users\manul\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Escritorio\Plantilla Latex\main.tex
-OUTPUT d:\Escritorio\Plantilla Latex\build\main.log
+INPUT d:\ManuDocs\Plantilla Latex\main.tex
+OUTPUT d:\ManuDocs\Plantilla Latex\build\main.log
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -503,20 +503,20 @@ INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.s
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT d:\Escritorio\Plantilla Latex\build\main.aux
-INPUT d:\Escritorio\Plantilla Latex\build\main.aux
-INPUT d:\Escritorio\Plantilla Latex\build\main.aux
-OUTPUT d:\Escritorio\Plantilla Latex\build\main.aux
-INPUT d:\Escritorio\Plantilla Latex\build\main.out
-INPUT d:\Escritorio\Plantilla Latex\build\main.out
-INPUT d:\Escritorio\Plantilla Latex\build\main.out
-INPUT d:\Escritorio\Plantilla Latex\build\main.out
-INPUT d:\Escritorio\Plantilla Latex\build\main.out
-INPUT d:\Escritorio\Plantilla Latex\build\main.out
-INPUT d:\Escritorio\Plantilla Latex\build\main.out
-INPUT d:\Escritorio\Plantilla Latex\build\main.out
-OUTPUT d:\Escritorio\Plantilla Latex\build\main.out
-OUTPUT d:\Escritorio\Plantilla Latex\build\main.pdf
+INPUT d:\ManuDocs\Plantilla Latex\build\main.aux
+INPUT d:\ManuDocs\Plantilla Latex\build\main.aux
+INPUT d:\ManuDocs\Plantilla Latex\build\main.aux
+OUTPUT d:\ManuDocs\Plantilla Latex\build\main.aux
+INPUT d:\ManuDocs\Plantilla Latex\build\main.out
+INPUT d:\ManuDocs\Plantilla Latex\build\main.out
+INPUT d:\ManuDocs\Plantilla Latex\build\main.out
+INPUT d:\ManuDocs\Plantilla Latex\build\main.out
+INPUT d:\ManuDocs\Plantilla Latex\build\main.out
+INPUT d:\ManuDocs\Plantilla Latex\build\main.out
+INPUT d:\ManuDocs\Plantilla Latex\build\main.out
+INPUT d:\ManuDocs\Plantilla Latex\build\main.out
+OUTPUT d:\ManuDocs\Plantilla Latex\build\main.out
+OUTPUT d:\ManuDocs\Plantilla Latex\build\main.pdf
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -532,13 +532,13 @@ INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
-OUTPUT d:\Escritorio\Plantilla Latex\build\main.bcf
-INPUT d:\Escritorio\Plantilla Latex\build\main.bbl
-INPUT d:\Escritorio\Plantilla Latex\build\main.bbl
-INPUT d:\Escritorio\Plantilla Latex\build\main.bbl
-INPUT d:\Escritorio\Plantilla Latex\build\main.bbl
-INPUT d:\Escritorio\Plantilla Latex\build\main.bbl
-INPUT d:\Escritorio\Plantilla Latex\build\main.bbl
+OUTPUT d:\ManuDocs\Plantilla Latex\build\main.bcf
+INPUT d:\ManuDocs\Plantilla Latex\build\main.bbl
+INPUT d:\ManuDocs\Plantilla Latex\build\main.bbl
+INPUT d:\ManuDocs\Plantilla Latex\build\main.bbl
+INPUT d:\ManuDocs\Plantilla Latex\build\main.bbl
+INPUT d:\ManuDocs\Plantilla Latex\build\main.bbl
+INPUT d:\ManuDocs\Plantilla Latex\build\main.bbl
 INPUT .\caratula.tex
 INPUT .\caratula.tex
 INPUT caratula.tex
@@ -606,19 +606,19 @@ INPUT .\Images\Unco\Unco logo.png
 INPUT C:\Users\manul\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT d:\Escritorio\Plantilla Latex\build\main.toc
-INPUT d:\Escritorio\Plantilla Latex\build\main.toc
-INPUT d:\Escritorio\Plantilla Latex\build\main.toc
-OUTPUT d:\Escritorio\Plantilla Latex\build\main.toc
-INPUT d:\Escritorio\Plantilla Latex\build\main.lof
-INPUT d:\Escritorio\Plantilla Latex\build\main.lof
-INPUT d:\Escritorio\Plantilla Latex\build\main.lof
-OUTPUT d:\Escritorio\Plantilla Latex\build\main.lof
-INPUT d:\Escritorio\Plantilla Latex\build\main.aux
-INPUT d:\Escritorio\Plantilla Latex\build\main.out
-INPUT d:\Escritorio\Plantilla Latex\build\main.out
-INPUT d:\Escritorio\Plantilla Latex\build\main.run.xml
-OUTPUT d:\Escritorio\Plantilla Latex\build\main.run.xml
+INPUT d:\ManuDocs\Plantilla Latex\build\main.toc
+INPUT d:\ManuDocs\Plantilla Latex\build\main.toc
+INPUT d:\ManuDocs\Plantilla Latex\build\main.toc
+OUTPUT d:\ManuDocs\Plantilla Latex\build\main.toc
+INPUT d:\ManuDocs\Plantilla Latex\build\main.lof
+INPUT d:\ManuDocs\Plantilla Latex\build\main.lof
+INPUT d:\ManuDocs\Plantilla Latex\build\main.lof
+OUTPUT d:\ManuDocs\Plantilla Latex\build\main.lof
+INPUT d:\ManuDocs\Plantilla Latex\build\main.aux
+INPUT d:\ManuDocs\Plantilla Latex\build\main.out
+INPUT d:\ManuDocs\Plantilla Latex\build\main.out
+INPUT d:\ManuDocs\Plantilla Latex\build\main.run.xml
+OUTPUT d:\ManuDocs\Plantilla Latex\build\main.run.xml
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb

@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber build/main"] 1687533742 "build/main.bcf" "build/main.bbl" "build/main" 1692483828 0
+["biber build/main"] 1694010529 "build/main.bcf" "build/main.bbl" "build/main" 1694010568 0
   "./biblio.bib" 1687533285 765 0fba799020030cf6647beb605cbf7ed9 ""
-  "build/main.bcf" 1692483828 106893 873e76be1f7f7a1c7c6034f8867a2ae2 "pdflatex"
+  "build/main.bcf" 1694010567 106893 873e76be1f7f7a1c7c6034f8867a2ae2 "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1692483825 "d:/Escritorio/Plantilla Latex/main.tex" "build/main.pdf" "main" 1692483828 0
+["pdflatex"] 1694010565 "d:/ManuDocs/Plantilla Latex/main.tex" "build/main.pdf" "main" 1694010568 0
   "C:/Users/manul/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1687539797 229657 d51ebb40197440b77fcd843ef735ce0a ""
   "C:/Users/manul/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1685638803 23185555 492459c5404cbc3f78a5488771ab2eaf ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -212,15 +212,15 @@
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "Images/Unco/Unco logo.png" 1661460218 71036 07a3c475dd7e1706d0e8963068635313 ""
   "Images/Unco/faiLogo.png" 1661460210 29253 ebed10ea7f07573184fe62b74119a2cd ""
-  "build/main.aux" 1692483828 826 8fe51a375df96ff240694e7cfb4538a0 "pdflatex"
-  "build/main.bbl" 1687533744 486 ee04f40f768daeed26442158e95aba61 "biber build/main"
-  "build/main.lof" 1692483828 30 1bb04962d39b6bda471ac6c46ce13f85 "pdflatex"
-  "build/main.out" 1692483827 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "build/main.run.xml" 1692483828 2301 13e8301fbdc44293469f5e9eeaf509b7 "pdflatex"
-  "build/main.toc" 1692483828 30 1bb04962d39b6bda471ac6c46ce13f85 "pdflatex"
+  "build/main.aux" 1694010567 826 8fe51a375df96ff240694e7cfb4538a0 "pdflatex"
+  "build/main.bbl" 1694010565 486 ee04f40f768daeed26442158e95aba61 "biber build/main"
+  "build/main.lof" 1694010567 30 1bb04962d39b6bda471ac6c46ce13f85 "pdflatex"
+  "build/main.out" 1694010567 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "build/main.run.xml" 1694010567 2301 13e8301fbdc44293469f5e9eeaf509b7 "pdflatex"
+  "build/main.toc" 1694010567 30 1bb04962d39b6bda471ac6c46ce13f85 "pdflatex"
   "caratula.tex" 1683576662 563 44680d0e9232ce1c473355e323993d52 ""
-  "d:/Escritorio/Plantilla Latex/main.tex" 1692483825 4706 73523531ba73195a3e67567c16e07f49 ""
-  "main.tex" 1692483825 4706 73523531ba73195a3e67567c16e07f49 ""
+  "d:/ManuDocs/Plantilla Latex/main.tex" 1694010523 4674 2d12780cad8aaf070854de2a20adc353 ""
+  "main.tex" 1694010523 4674 2d12780cad8aaf070854de2a20adc353 ""
   (generated)
   "build/main.aux"
   "build/main.bcf"
