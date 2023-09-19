@@ -33,6 +33,12 @@
 \usepackage{multirow}
 \usepackage{xcolor}
 \usepackage{listings}
+\usepackage{listingsutf8}
+\lstset{
+  inputencoding=utf8/latin1, % Configura la codificación UTF-8
+  extendedchars=true,        % Permite caracteres extendidos
+  literate={á}{{\'a}}1 {é}{{\'e}}1 {í}{{\'i}}1 {ó}{{\'o}}1 {ú}{{\'u}}1
+}
 \usepackage{comment}
 \usepackage{courier}
 %%%%%%%%%%%%%%%%%% LISTING JAVA %%%%%%%%%%%%%%%%%%%%%%%%%%

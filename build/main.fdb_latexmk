@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber build/main"] 1694010529 "build/main.bcf" "build/main.bbl" "build/main" 1694010568 0
+["biber build/main"] 1694010529 "build/main.bcf" "build/main.bbl" "build/main" 1695164086 0
   "./biblio.bib" 1687533285 765 0fba799020030cf6647beb605cbf7ed9 ""
-  "build/main.bcf" 1694010567 106893 873e76be1f7f7a1c7c6034f8867a2ae2 "pdflatex"
+  "build/main.bcf" 1695164085 106893 873e76be1f7f7a1c7c6034f8867a2ae2 "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1694010565 "d:/ManuDocs/Plantilla Latex/main.tex" "build/main.pdf" "main" 1694010568 0
-  "C:/Users/manul/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1687539797 229657 d51ebb40197440b77fcd843ef735ce0a ""
+["pdflatex"] 1695164083 "d:/ManuDocs/Plantilla Latex/main.tex" "build/main.pdf" "main" 1695164086 0
+  "C:/Users/manul/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1695163216 229657 d51ebb40197440b77fcd843ef735ce0a ""
   "C:/Users/manul/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1685638803 23185555 492459c5404cbc3f78a5488771ab2eaf ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
@@ -109,6 +109,7 @@
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfrcs.code.tex" 1673775190 4385 510565c2f07998c8a0e14f0ec07ff23c ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil-common.tex" 1673775190 29239 22e8c7516012992a49873eff0d868fed ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil-latex.def" 1673775190 6950 8524a062d82b7afdc4a88a57cb377784 ""
+  "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc.sty" 1575105840 21514 b7557edcee22835ef6b03ede1802dad4 ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounter/uniquecounter.sty" 1576434012 7008 f92eaa0a3872ed622bbf538217cd2ab7 ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkeyval.tex" 1656236919 19231 27205ee17aaa2902aea3e0c07a3cfc65 ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvutils.tex" 1656236919 7677 9cb1a74d945bc9331f2181c0a59ff34a ""
@@ -179,6 +180,7 @@
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/latex/listings/listings.cfg" 1679057124 1829 d8258b7d94f5f955e70c623e525f9f45 ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/latex/listings/listings.sty" 1679057124 80947 75a96bb4c9f40ae31d54a01d924df2ff ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstmisc.sty" 1679057124 77021 d05e9115c67855816136d82929db8892 ""
+  "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/latex/listingsutf8/listingsutf8.sty" 1575977316 5148 1baf596b2560b44d9ff1889dc1d7564e ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/latex/logreq/logreq.def" 1280941015 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/latex/logreq/logreq.sty" 1280941015 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/latex/marvosym/marvosym.sty" 1333353961 9393 ceaf2ea8eb2c81fdb168323fc5fffc89 ""
@@ -212,15 +214,15 @@
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "Images/Unco/Unco logo.png" 1661460218 71036 07a3c475dd7e1706d0e8963068635313 ""
   "Images/Unco/faiLogo.png" 1661460210 29253 ebed10ea7f07573184fe62b74119a2cd ""
-  "build/main.aux" 1694010567 826 8fe51a375df96ff240694e7cfb4538a0 "pdflatex"
+  "build/main.aux" 1695164085 826 8fe51a375df96ff240694e7cfb4538a0 "pdflatex"
   "build/main.bbl" 1694010565 486 ee04f40f768daeed26442158e95aba61 "biber build/main"
-  "build/main.lof" 1694010567 30 1bb04962d39b6bda471ac6c46ce13f85 "pdflatex"
-  "build/main.out" 1694010567 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "build/main.run.xml" 1694010567 2301 13e8301fbdc44293469f5e9eeaf509b7 "pdflatex"
-  "build/main.toc" 1694010567 30 1bb04962d39b6bda471ac6c46ce13f85 "pdflatex"
+  "build/main.lof" 1695164085 30 1bb04962d39b6bda471ac6c46ce13f85 "pdflatex"
+  "build/main.out" 1695164084 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "build/main.run.xml" 1695164085 2301 13e8301fbdc44293469f5e9eeaf509b7 "pdflatex"
+  "build/main.toc" 1695164085 30 1bb04962d39b6bda471ac6c46ce13f85 "pdflatex"
   "caratula.tex" 1683576662 563 44680d0e9232ce1c473355e323993d52 ""
-  "d:/ManuDocs/Plantilla Latex/main.tex" 1694010523 4674 2d12780cad8aaf070854de2a20adc353 ""
-  "main.tex" 1694010523 4674 2d12780cad8aaf070854de2a20adc353 ""
+  "d:/ManuDocs/Plantilla Latex/main.tex" 1695164082 4918 e3990aada6422b66b765967324025f25 ""
+  "main.tex" 1695164082 4918 e3990aada6422b66b765967324025f25 ""
   (generated)
   "build/main.aux"
   "build/main.bcf"

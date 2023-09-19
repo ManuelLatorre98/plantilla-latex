@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.1)  6 SEP 2023 11:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.1)  19 SEP 2023 19:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -885,7 +885,11 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
- (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+ (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\listingsutf8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+ (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write5
  Excluding comment 'comment') (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\courier.sty
 Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
@@ -910,13 +914,13 @@ Package caption Info: listings package is loaded.
 )
 \c@mv@sans=\count462
 LaTeX Font Info:    Overwriting symbol font `operators' in version `sans'
-(Font)                  OT1/cmr/m/n --> OT1/cmbr/m/n on input line 131.
+(Font)                  OT1/cmr/m/n --> OT1/cmbr/m/n on input line 137.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `sans'
-(Font)                  OML/cmm/m/it --> OML/cmbrm/m/it on input line 132.
+(Font)                  OML/cmm/m/it --> OML/cmbrm/m/it on input line 138.
 LaTeX Font Info:    Encoding `U' has changed to `OMS' for symbol font
-(Font)              `symbols' in the math version `sans' on input line 133.
+(Font)              `symbols' in the math version `sans' on input line 139.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `sans'
-(Font)                  U/MnSymbolF/m/n --> OMS/cmbrs/m/n on input line 133.
+(Font)                  U/MnSymbolF/m/n --> OMS/cmbrs/m/n on input line 139.
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip84
@@ -939,24 +943,24 @@ LaTeX Info: Redefining \% on input line 23.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -992,7 +996,7 @@ LaTeX Font Info:    ... okay on input line 146.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 146.
+Package hyperref Info: Link coloring ON on input line 152.
 (d:\ManuDocs\Plantilla Latex\build\main.out) (d:\ManuDocs\Plantilla Latex\build\main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
@@ -1029,11 +1033,11 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (d:\ManuDocs\Plantilla Latex\build\main.bbl)
-Package biblatex Info: Reference section=0 on input line 146.
-Package biblatex Info: Reference segment=0 on input line 146.
-LaTeX Info: Redefining \sptext on input line 146.
-LaTeX Info: Redefining \. on input line 146.
-LaTeX Info: Redefining \% on input line 146.
+Package biblatex Info: Reference section=0 on input line 152.
+Package biblatex Info: Reference segment=0 on input line 152.
+LaTeX Info: Redefining \sptext on input line 152.
+LaTeX Info: Redefining \. on input line 152.
+LaTeX Info: Redefining \% on input line 152.
 \c@lstlisting=\count469
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -1082,13 +1086,13 @@ LaTeX Info: Redefining \% on input line 1.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 \clearpage
+l.159 \clearpage
                 \pagenumbering{arabic} [1]
 
-LaTeX Warning: Empty bibliography on input line 162.
+LaTeX Warning: Empty bibliography on input line 168.
 
 
-Package caption Warning: Unused \captionsetup[lstlisting] on input line 126.
+Package caption Warning: Unused \captionsetup[lstlisting] on input line 132.
 See the caption package documentation for explanation.
 
 (d:\ManuDocs\Plantilla Latex\build\main.aux
@@ -1103,10 +1107,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38488 strings out of 476410
- 727272 string characters out of 5789114
+ 38683 strings out of 476410
+ 731334 string characters out of 5789114
  1855845 words of memory out of 5000000
- 58307 multiletter control sequences out of 15000+600000
+ 58494 multiletter control sequences out of 15000+600000
  522213 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,7n,117p,707b,1794s stack positions out of 10000i,1000n,20000p,200000b,200000s
